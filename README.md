@@ -15,4 +15,6 @@ My knowledge includes but is not limited to the following technologies:
   <img src=https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white>
   <img src=https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white>
   <img src=https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white>
+  <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge>
+  <img src=	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
 </p>
